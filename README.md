@@ -10,9 +10,9 @@ Authors: Cosimo Iaia, Alessandro Tavano
 1) AliceChapterOne-EEG.csv contains the annotations of the first Chapter of Alice in wonderland, available here: https://deepblue.lib.umich.edu/data/concern/data_sets/bn999738r#read_me_display
 
 Reference
-Brennan, J. R. (2023). EEG Datasets for Naturalistic Listening to "Alice in Wonderland" (Version 2) [Data set], University of Michigan - Deep Blue Data. https://doi.org/10.7302/746w-g237
+Brennan, J. R. (2023). EEG Datasets for Naturalistic Listening to "Alice in Wonderland" (Version 2) [Data set], University of Michigan - Deep Blue Data. https://doi.org/10.7302/746w-g237 (License: http://creativecommons.org/licenses/by/4.0/)
 
-License: http://creativecommons.org/licenses/by/4.0/
+
 
 
 2) example_fig_timestamps.csv contains the word annotations of the sentence "The idea of one employee improved the quality of the product.
@@ -33,5 +33,7 @@ For file 2) and 3), the annotations are performed using Praat (www.praat.org)
 6) Handling_contracted_forms shows how to deal with contracted forms (as in 3)) when perfomring the alignment.
 
 
+To cite this work, please refer to the paper: Cosimo Iaia, Alessandro Tavano. Aligning syntactic structure to the dynamics of verbal communication: a pipeline for annotating syntactic phrases onto speech acoustics, 12 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5625187/v1]
+License: http://creativecommons.org/licenses/by/4.0/
 
 
