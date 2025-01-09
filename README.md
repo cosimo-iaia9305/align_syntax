@@ -32,6 +32,8 @@ For file 2) and 3), the annotations are performed using Praat (www.praat.org)
 
 6) Handling_contracted_forms shows how to deal with contracted forms (as in 3)) when perfomring the alignment.
 
+7) Annotations_validation.csv contains both the manual and automatic annotations for the validation.
+
 
 To cite this work, please refer to the paper: Cosimo Iaia, Alessandro Tavano. Aligning syntactic structure to the dynamics of verbal communication: a pipeline for annotating syntactic phrases onto speech acoustics, 12 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5625187/v1]
 License: http://creativecommons.org/licenses/by/4.0/
